@@ -168,24 +168,6 @@ ha:pcb-rnd-board-v7 {
          clearline=1
         }
        }
-       ha:line.136 {
-        x1=76.05mm; y1=46.25mm; x2=68.111808mm; y2=54.188192mm; thickness=0.2mm; clearance=40.0mil;
-        ha:flags {
-         clearline=1
-        }
-       }
-       ha:line.142 {
-        x1=47.55mm; y1=46.25mm; x2=55.488192mm; y2=54.188192mm; thickness=0.2mm; clearance=40.0mil;
-        ha:flags {
-         clearline=1
-        }
-       }
-       ha:line.148 {
-        x1=76.05mm; y1=39.75mm; x2=68.111808mm; y2=31.811808mm; thickness=0.2mm; clearance=40.0mil;
-        ha:flags {
-         clearline=1
-        }
-       }
        ha:line.157 {
         x1=47.55mm; y1=39.75mm; x2=47.55mm; y2=46.25mm; thickness=0.2mm; clearance=40.0mil;
         ha:flags {
@@ -198,26 +180,44 @@ ha:pcb-rnd-board-v7 {
          clearline=1
         }
        }
-       ha:line.163 {
-        x1=68.111808mm; y1=51.515931mm; x2=68.111808mm; y2=54.188192mm; thickness=0.2mm; clearance=40.0mil;
+       ha:line.324 {
+        x1=55.4875mm; y1=33.1875mm; x2=55.4875mm; y2=34.483377mm; thickness=0.2mm; clearance=40.0mil;
         ha:flags {
          clearline=1
         }
        }
-       ha:line.172 {
-        x1=55.488192mm; y1=31.811808mm; x2=55.488192mm; y2=34.484069mm; thickness=0.2mm; clearance=40.0mil;
+       ha:line.361 {
+        x1=76.05mm; y1=46.25mm; x2=68.8mm; y2=53.5mm; thickness=0.2mm; clearance=40.0mil;
         ha:flags {
          clearline=1
         }
        }
-       ha:line.181 {
-        x1=55.488192mm; y1=51.515931mm; x2=55.488192mm; y2=54.188192mm; thickness=0.2mm; clearance=40.0mil;
+       ha:line.364 {
+        x1=68.1125mm; y1=51.516623mm; x2=68.1125mm; y2=52.8125mm; thickness=0.2mm; clearance=40.0mil;
         ha:flags {
          clearline=1
         }
        }
-       ha:line.184 {
-        x1=68.111808mm; y1=31.811808mm; x2=68.111808mm; y2=34.484069mm; thickness=0.2mm; clearance=40.0mil;
+       ha:line.382 {
+        x1=76.05mm; y1=39.75mm; x2=68.8mm; y2=32.5mm; thickness=0.2mm; clearance=40.0mil;
+        ha:flags {
+         clearline=1
+        }
+       }
+       ha:line.385 {
+        x1=68.1125mm; y1=33.1875mm; x2=68.1125mm; y2=34.483377mm; thickness=0.2mm; clearance=40.0mil;
+        ha:flags {
+         clearline=1
+        }
+       }
+       ha:line.388 {
+        x1=47.55mm; y1=46.25mm; x2=54.8mm; y2=53.5mm; thickness=0.2mm; clearance=40.0mil;
+        ha:flags {
+         clearline=1
+        }
+       }
+       ha:line.391 {
+        x1=55.4875mm; y1=51.516623mm; x2=55.4875mm; y2=52.8125mm; thickness=0.2mm; clearance=40.0mil;
         ha:flags {
          clearline=1
         }
@@ -234,14 +234,38 @@ ha:pcb-rnd-board-v7 {
          clearline=1
         }
        }
-       ha:arc.117 {
-        x=61.8mm; y=43.0mm; width=10.6mm; height=10.6mm; astart=306.544972; adelta=106.847953; thickness=0.2mm; clearance=40.0mil;
+       ha:arc.280 {
+        x=54.8mm; y=33.1875mm; width=0.6875mm; height=0.6875mm; astart=-90.000000; adelta=-90.000000; thickness=0.2mm; clearance=40.0mil;
         ha:flags {
          clearline=1
         }
        }
-       ha:arc.280 {
-        x=54.8mm; y=33.1875mm; width=0.6875mm; height=0.6875mm; astart=-90.000000; adelta=-90.000000; thickness=0.2mm; clearance=40.0mil;
+       ha:arc.328 {
+        x=61.799308mm; y=42.999308mm; width=10.6mm; height=10.6mm; astart=306.544972; adelta=106.847953; thickness=0.2mm; clearance=40.0mil;
+        ha:flags {
+         clearline=1
+        }
+       }
+       ha:arc.367 {
+        x=68.8mm; y=52.8125mm; width=0.6875mm; height=0.6875mm; astart=90.000000; adelta=-90.000000; thickness=0.2mm; clearance=40.0mil;
+        ha:flags {
+         clearline=1
+        }
+       }
+       ha:arc.394 {
+        x=68.8mm; y=33.1875mm; width=0.6875mm; height=0.6875mm; astart=270.000000; adelta=90.000000; thickness=0.2mm; clearance=40.0mil;
+        ha:flags {
+         clearline=1
+        }
+       }
+       ha:arc.395 {
+        x=54.8mm; y=52.8125mm; width=0.6875mm; height=0.6875mm; astart=90.000000; adelta=90.000000; thickness=0.2mm; clearance=40.0mil;
+        ha:flags {
+         clearline=1
+        }
+       }
+       ha:arc.396 {
+        x=54.32mm; y=34.1475mm; width=1.1675mm; height=1.1675mm; astart=-90.000000; adelta=-90.000000; thickness=0.2mm; clearance=40.0mil;
         ha:flags {
          clearline=1
         }
