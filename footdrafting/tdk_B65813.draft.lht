@@ -264,12 +264,6 @@ ha:pcb-rnd-board-v7 {
          clearline=1
         }
        }
-       ha:arc.396 {
-        x=54.32mm; y=34.1475mm; width=1.1675mm; height=1.1675mm; astart=-90.000000; adelta=-90.000000; thickness=0.2mm; clearance=40.0mil;
-        ha:flags {
-         clearline=1
-        }
-       }
       }
       color = {#548b54}
     }
