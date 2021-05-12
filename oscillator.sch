@@ -7,7 +7,7 @@ device=OPAMP
 T 53200 48000 5 10 0 0 0 0 1
 symversion=0.1
 T 53200 47200 5 10 1 1 0 0 1
-refdes=U201B
+refdes=U201
 T 52500 46600 5 10 0 1 0 0 1
 footprint=so(8)
 }
@@ -49,8 +49,8 @@ T 48800 45800 5 10 0 0 90 0 1
 symversion=0.1
 T 49200 46100 5 10 1 1 0 6 1
 value=3.3nF
-T 49200 45700 5 10 1 1 0 6 1
-footprint=acy(197)
+T 49200 45700 5 10 0 1 0 6 1
+footprint=KEMET_MMK5xxxK63J0xL4.subc.lht
 T 49200 45900 5 10 1 1 0 6 1
 description=Metal Film
 }
@@ -80,8 +80,8 @@ T 51300 48500 5 10 0 0 90 0 1
 symversion=0.1
 T 51700 48800 5 10 1 1 0 6 1
 value=3.3nF
-T 51700 48400 5 10 1 1 0 6 1
-footprint=acy(197)
+T 51700 48400 5 10 0 1 0 6 1
+footprint=KEMET_MMK5xxxK63J0xL4.subc.lht
 T 51700 48600 5 10 1 1 0 6 1
 description=Metal Film
 }
@@ -95,8 +95,8 @@ T 48800 48500 5 10 0 0 90 0 1
 symversion=0.1
 T 49200 48800 5 10 1 1 0 6 1
 value=3.3nF
-T 49200 48400 5 10 1 1 0 6 1
-footprint=acy(197)
+T 49200 48400 5 10 0 1 0 6 1
+footprint=KEMET_MMK5xxxK63J0xL4.subc.lht
 T 49200 48600 5 10 1 1 0 6 1
 description=Metal Film
 }
@@ -145,7 +145,7 @@ device=OPAMP
 T 45200 43300 5 10 0 0 0 0 1
 symversion=0.1
 T 45200 42500 5 10 1 1 0 0 1
-refdes=U201A
+refdes=U201
 T 44500 41900 5 10 0 1 0 0 1
 footprint=so(8)
 }

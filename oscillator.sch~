@@ -8,6 +8,8 @@ T 53200 48000 5 10 0 0 0 0 1
 symversion=0.1
 T 53200 47200 5 10 1 1 0 0 1
 refdes=U201B
+T 52500 46600 5 10 0 1 0 0 1
+footprint=so(8)
 }
 C 51800 44900 1 0 0 resistor-1.sym
 {
@@ -18,7 +20,7 @@ refdes=R201
 T 52300 45400 5 10 1 1 0 3 1
 value=180K
 T 52300 45200 5 10 1 1 0 3 1
-footprint=acy(400)
+footprint=0805
 }
 N 52700 45000 56000 45000 4
 N 56000 45000 56000 49500 4
@@ -35,7 +37,7 @@ refdes=R202
 T 50800 45400 5 10 1 1 0 3 1
 value=5K
 T 50800 45200 5 10 1 1 0 3 1
-footprint=acy(400)
+footprint=0805
 }
 C 49700 45600 1 90 0 capacitor-1.sym
 {
@@ -47,10 +49,10 @@ T 48800 45800 5 10 0 0 90 0 1
 symversion=0.1
 T 49200 46100 5 10 1 1 0 6 1
 value=3.3nF
-T 49200 45700 5 10 1 1 0 6 1
-footprint=acy(197)
+T 49200 45700 5 10 0 1 0 6 1
+footprint=KEMET_MMK5xxxK63J0xL4.subc.lht
 T 49200 45900 5 10 1 1 0 6 1
-description=Metal Film/Mica
+description=Metal Film
 }
 N 47000 45000 50300 45000 4
 N 49500 45600 49500 45000 4
@@ -65,7 +67,7 @@ refdes=R203
 T 53800 49900 5 10 1 1 0 3 1
 value=1K
 T 53800 49700 5 10 1 1 0 3 1
-footprint=acy(400)
+footprint=0805
 }
 N 54200 49500 56000 49500 4
 C 52200 48300 1 90 0 capacitor-1.sym
@@ -78,10 +80,10 @@ T 51300 48500 5 10 0 0 90 0 1
 symversion=0.1
 T 51700 48800 5 10 1 1 0 6 1
 value=3.3nF
-T 51700 48400 5 10 1 1 0 6 1
-footprint=acy(197)
+T 51700 48400 5 10 0 1 0 6 1
+footprint=KEMET_MMK5xxxK63J0xL4.subc.lht
 T 51700 48600 5 10 1 1 0 6 1
-description=Metal Film/Mica
+description=Metal Film
 }
 C 49700 48300 1 90 0 capacitor-1.sym
 {
@@ -93,10 +95,10 @@ T 48800 48500 5 10 0 0 90 0 1
 symversion=0.1
 T 49200 48800 5 10 1 1 0 6 1
 value=3.3nF
-T 49200 48400 5 10 1 1 0 6 1
-footprint=acy(197)
+T 49200 48400 5 10 0 1 0 6 1
+footprint=KEMET_MMK5xxxK63J0xL4.subc.lht
 T 49200 48600 5 10 1 1 0 6 1
-description=Metal Film/Mica
+description=Metal Film
 }
 C 49900 49400 1 0 0 resistor-1.sym
 {
@@ -107,7 +109,7 @@ refdes=R204
 T 50400 49900 5 10 1 1 0 3 1
 value=1K
 T 50400 49700 5 10 1 1 0 3 1
-footprint=acy(400)
+footprint=0805
 }
 C 46900 47200 1 270 0 resistor-1.sym
 {
@@ -118,7 +120,7 @@ refdes=R205
 T 46800 46700 5 10 1 1 0 6 1
 value=1K
 T 46800 46500 5 10 1 1 0 6 1
-footprint=acy(400)
+footprint=0805
 }
 N 47000 47200 47000 49500 4
 N 47000 49500 49900 49500 4
@@ -144,6 +146,8 @@ T 45200 43300 5 10 0 0 0 0 1
 symversion=0.1
 T 45200 42500 5 10 1 1 0 0 1
 refdes=U201A
+T 44500 41900 5 10 0 1 0 0 1
+footprint=so(8)
 }
 N 44500 42100 44000 42100 4
 N 44000 42100 44000 41000 4
@@ -163,7 +167,7 @@ value=10nF
 T 43200 41200 5 10 1 1 0 6 1
 footprint=acy(197)
 T 43200 41400 5 10 1 1 0 6 1
-description=Metal Film/Mica
+description=Metal Film
 }
 N 43500 42000 43500 42500 4
 N 43100 42500 44500 42500 4

@@ -174,7 +174,7 @@ C 42200 47100 1 0 0 opamp-1.sym
 T 42900 47900 5 10 0 0 0 0 1
 device=OPAMP
 T 42900 47700 5 10 1 1 0 0 1
-refdes=U101A
+refdes=U101
 T 42900 48500 5 10 0 0 0 0 1
 symversion=0.1
 T 42200 47100 5 10 0 1 0 0 1
@@ -244,7 +244,7 @@ device=OPAMP
 T 50900 48500 5 10 0 0 0 0 1
 symversion=0.1
 T 50900 47700 5 10 1 1 0 0 1
-refdes=U101B
+refdes=U101
 T 50200 47100 5 10 0 1 0 0 1
 footprint=so(8)
 }
