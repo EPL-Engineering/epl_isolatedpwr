@@ -6,7 +6,7 @@ ha:geda-project-v1 {
      sch_basename = power-art.lht
      li:schematics {
       power.sch
-      ocillator.sch
+      oscillator.sch
      }
     }
    }

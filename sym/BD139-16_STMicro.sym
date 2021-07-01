@@ -1,0 +1,55 @@
+v 20201211 2
+P 600 1000 600 800 1 0 0
+{
+T 500 850 5 6 1 1 0 0 1
+pinnumber=2
+T 500 850 5 6 0 0 0 0 1
+pinseq=1
+T 500 850 5 6 0 1 0 0 1
+pinlabel=C
+T 500 850 5 6 0 1 0 0 1
+pintype=pas
+}
+P 600 200 600 0 1 0 1
+{
+T 500 50 5 6 1 1 0 0 1
+pinnumber=3
+T 500 50 5 6 0 0 0 0 1
+pinseq=3
+T 500 50 5 6 0 1 0 0 1
+pinlabel=E
+T 500 50 5 6 0 1 0 0 1
+pintype=pas
+}
+V 500 501 316 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 900 500 5 10 0 0 0 0 1
+device=NPN_TRANSISTOR
+L 600 200 400 400 3 0 0 0 -1 -1
+L 600 800 400 600 3 0 0 0 -1 -1
+L 400 700 400 300 3 0 0 0 -1 -1
+P 0 500 184 500 1 0 0
+{
+T 100 550 5 6 1 1 0 0 1
+pinnumber=1
+T 100 550 5 6 0 0 0 0 1
+pinseq=2
+T 100 550 5 6 0 1 0 0 1
+pinlabel=B
+T 100 550 5 6 0 1 0 0 1
+pintype=pas
+}
+L 400 500 184 500 3 0 0 0 -1 -1
+T 900 700 8 10 1 1 0 1 1
+refdes=Q?
+H 3 0 0 0 -1 -1 1 -1 -1 -1 -1 -1 5
+M 510,240
+L 601,200
+L 555,295
+L 535,265
+z
+T 892 292 8 10 1 1 0 1 1
+footprint=TO126-virtical-STMicro.subc.lht
+T 892 92 8 10 0 1 0 1 1
+documentation=https://www.st.com/content/ccc/resource/technical/document/datasheet/25/1f/cf/0d/03/ad/4e/06/CD00001225.pdf/files/CD00001225.pdf/jcr:content/translations/en.CD00001225.pdf
+T 892 492 8 10 1 1 0 1 1
+device=BD139-16

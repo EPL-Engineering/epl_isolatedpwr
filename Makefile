@@ -31,7 +31,7 @@ GRAPHCMDFILE_GNUPLOT = plot.gnu
 #Project Schematics to PCB File
 SCH2PCB = project.lht
 #Project Printed Circuit Boards
-PCBS = bioamp-art.lht
+PCBS = power-art.lht
 #Project Gerbers
 GERBERS = $(NAME)-art.fab.gbr $(NAME)-art.plated-drill.cnc $(NAME)-art.frontsilk.gbr $(NAME)-art.front.gbr $(NAME)-art.frontmask.gbr $(NAME)-art.back.gbr  $(NAME)-art.backmask.gbr
 
