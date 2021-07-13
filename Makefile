@@ -14,7 +14,7 @@
 #Project Name
 NAME = isolated
 #Project Schematics
-SCHEMATICS = power.sch oscillator.sch
+SCHEMATICS = power.sch oscillator.sch edgecard.sch
 #
 #Project Netlists
 NETLISTS = $(NAME).net
