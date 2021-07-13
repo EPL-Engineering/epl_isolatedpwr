@@ -5,6 +5,7 @@ ha:geda-project-v1 {
     ha:gsch2pcb_rnd {
      sch_basename = power-art.lht
      li:schematics {
+      isolated.sch
       power.sch
       oscillator.sch
       edgecard.sch
