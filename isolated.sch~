@@ -160,8 +160,8 @@ C 42500 47100 1 0 0 transformer-eef.sym
 {
 T 43300 50700 5 10 1 1 0 3 1
 refdes=T1
-T 43292 50492 5 10 0 1 0 3 1
-footprint=tdk_B65813-throughboard 1to4wshield.subc.lht
+T 43292 50492 5 10 1 1 0 3 1
+footprint=wedge
 T 42500 48700 5 10 0 0 0 0 1
 device=TRANSFORMER
 }
